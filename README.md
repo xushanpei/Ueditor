@@ -1,7 +1,7 @@
 # xsp
 
 > A Vue.js project
-
+![...](https://github.com/xushanpei/Ueditor/blob/master/static/demo.png);
 ## Build Setup
 
 ``` bash
